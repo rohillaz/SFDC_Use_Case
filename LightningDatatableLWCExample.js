@@ -9,7 +9,7 @@ export default class LightningDatatableLWCExample extends LightningElement {
         },
         {
             label: 'Account Owner',
-            fieldName: 'Owner',
+            fieldName: 'OwnerId',
             type: 'text',
             sortable: true
         },
